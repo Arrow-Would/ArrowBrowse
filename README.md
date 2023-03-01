@@ -6,6 +6,10 @@
 
 <b>A Simple Privacy Browser.</b></br>
 
+![screen_1 (1)](https://user-images.githubusercontent.com/108482237/222143537-03ec4192-55d7-433a-9844-2a7197b83e2d.png)
+</br></br>
+
+
 <!-- <b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
   <br> (v4.0.1) -->
 
